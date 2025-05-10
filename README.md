@@ -1,23 +1,14 @@
-##Janmansh and assignments
+Janmansh and Assignments
+Janmansh has to submit 3 assignments for Chingari before 10 PM. He starts working on the assignments at X PM, and each assignment takes 1 hour to complete.
 
-Janmansh has to submit 
-3
-3 assignments for Chingari before 
-10
-10 pm and he starts to do the assignments at 
-X
-X pm. Each assignment takes him 
-1
-1 hour to complete. Can you tell whether he'll be able to complete all assignments on time or not?
+Determine whether Janmansh will be able to complete all the assignments on time.
 
 Input Format
-The first line will contain 
-T
-T - the number of test cases. Then the test cases follow.
-The first and only line of each test case contains one integer 
-X
-X - the time when Janmansh starts doing the assignments.
-Output Format
-For each test case, output Yes if he can complete the assignments on time. Otherwise, output No.
+The first line contains a single integer T – the number of test cases.
 
-You may print each character of Yes and No in uppercase or lowercase (for example, yes, yEs, YES will be considered identical).
+The next T lines each contain a single integer X – the time (in PM) when Janmansh starts the assignments.
+
+Output Format
+For each test case, print "Yes" if Janmansh can complete all assignments on or before 10 PM. Otherwise, print "No".
+
+You may print each character of "Yes" and "No" in uppercase or lowercase (for example, YES, yes, yEs will be considered the same).
